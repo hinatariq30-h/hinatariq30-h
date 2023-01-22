@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hina tariq</h1>
+<h1 align="center">Hi 👋, I'm Hina Tariq</h1>
 <h3 align="center">A passionate frontend developer from karachi pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hinatariq30-h&label=Profile%20views&color=0e75b6&style=flat" alt="hinatariq30-h" /> </p>
